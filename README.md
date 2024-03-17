@@ -1,0 +1,2 @@
+# golang-proj
+BE structure
